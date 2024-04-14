@@ -1,0 +1,4690 @@
+{
+    "Items": [
+        {
+            "id": "dtWKKkzYsEip5bfuTJmA8w==",
+            "rotation": {
+                "w": 0.7071077823638916,
+                "x": 2.107345267177152e-7,
+                "y": -0.7071058750152588,
+                "z": 2.107339724943813e-7
+            },
+            "position": {
+                "x": 907.4199829101563,
+                "y": 2.5,
+                "z": -2.0
+            },
+            "itemName": 252,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 907,
+                    "z": -1
+                },
+                {
+                    "x": 906,
+                    "z": -1
+                },
+                {
+                    "x": 907,
+                    "z": -2
+                },
+                {
+                    "x": 906,
+                    "z": -2
+                },
+                {
+                    "x": 907,
+                    "z": -3
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "W4RiuGCbn0CbJG92MkF97Q==",
+            "rotation": {
+                "w": 2.682209014892578e-7,
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "position": {
+                "x": 898.25,
+                "y": 0.0,
+                "z": 6.499999046325684
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 899,
+                    "z": 7
+                },
+                {
+                    "x": 898,
+                    "z": 7
+                },
+                {
+                    "x": 899,
+                    "z": 6
+                },
+                {
+                    "x": 898,
+                    "z": 6
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "xUIvkyXFTkmf6KAFfvKt0Q==",
+            "rotation": {
+                "w": -4.371139183945161e-8,
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "position": {
+                "x": 894.0,
+                "y": 0.0,
+                "z": 4.0
+            },
+            "itemName": 41,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": true,
+                "itemName": 42,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 895,
+                    "z": 5
+                },
+                {
+                    "x": 894,
+                    "z": 5
+                },
+                {
+                    "x": 893,
+                    "z": 5
+                },
+                {
+                    "x": 895,
+                    "z": 4
+                },
+                {
+                    "x": 894,
+                    "z": 4
+                },
+                {
+                    "x": 893,
+                    "z": 4
+                },
+                {
+                    "x": 895,
+                    "z": 3
+                },
+                {
+                    "x": 894,
+                    "z": 3
+                },
+                {
+                    "x": 893,
+                    "z": 3
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "2oOPMtXwUEm8i9W2RitjEg==",
+            "rotation": {
+                "w": 2.682209014892578e-7,
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "position": {
+                "x": 902.0,
+                "y": 0.0,
+                "z": 6.500000953674316
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 903,
+                    "z": 7
+                },
+                {
+                    "x": 902,
+                    "z": 7
+                },
+                {
+                    "x": 901,
+                    "z": 7
+                },
+                {
+                    "x": 902,
+                    "z": 6
+                },
+                {
+                    "x": 903,
+                    "z": 6
+                },
+                {
+                    "x": 901,
+                    "z": 6
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "wTx3BQt7fkKWIEdPmU01g==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 898.25,
+                "y": 0.0,
+                "z": -4.500001430511475
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 898,
+                    "z": -4
+                },
+                {
+                    "x": 897,
+                    "z": -4
+                },
+                {
+                    "x": 898,
+                    "z": -5
+                },
+                {
+                    "x": 897,
+                    "z": -5
+                },
+                {
+                    "x": 899,
+                    "z": -4
+                },
+                {
+                    "x": 899,
+                    "z": -5
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "SGgt6EkDMECJRhdE826sQ==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 905.25,
+                "y": 0.0,
+                "z": 2.75
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 905,
+                    "z": 3
+                },
+                {
+                    "x": 905,
+                    "z": 2
+                },
+                {
+                    "x": 904,
+                    "z": 3
+                },
+                {
+                    "x": 904,
+                    "z": 2
+                },
+                {
+                    "x": 906,
+                    "z": 3
+                },
+                {
+                    "x": 906,
+                    "z": 2
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "BWi8Tgge8EWIAMgoLqDGEQ==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 894.75,
+                "y": 0.0,
+                "z": 2.749997138977051
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 895,
+                    "z": 3
+                },
+                {
+                    "x": 894,
+                    "z": 3
+                },
+                {
+                    "x": 895,
+                    "z": 2
+                },
+                {
+                    "x": 894,
+                    "z": 2
+                },
+                {
+                    "x": 896,
+                    "z": 3
+                },
+                {
+                    "x": 896,
+                    "z": 2
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "2XoMVs2dQ02fn4pQUFlWTQ==",
+            "rotation": {
+                "w": -4.371139183945161e-8,
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "position": {
+                "x": 893.0,
+                "y": 0.0,
+                "z": 4.0
+            },
+            "itemName": 41,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": true,
+                "itemName": 42,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 894,
+                    "z": 5
+                },
+                {
+                    "x": 893,
+                    "z": 5
+                },
+                {
+                    "x": 894,
+                    "z": 4
+                },
+                {
+                    "x": 893,
+                    "z": 4
+                },
+                {
+                    "x": 894,
+                    "z": 3
+                },
+                {
+                    "x": 893,
+                    "z": 3
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "oZMZQPueM0ShjwklQjOLw==",
+            "rotation": {
+                "w": -1.6292068494294654e-7,
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "position": {
+                "x": 904.5,
+                "y": 0.875,
+                "z": 3.0
+            },
+            "itemName": 35,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 13,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 905,
+                    "z": 2
+                },
+                {
+                    "x": 904,
+                    "z": 2
+                },
+                {
+                    "x": 905,
+                    "z": 4
+                },
+                {
+                    "x": 904,
+                    "z": 4
+                }
+            ],
+            "customPositions": [
+                {
+                    "x": 904.5,
+                    "y": 0.013655662536621094,
+                    "z": 1.9808149337768555
+                },
+                {
+                    "x": 904.9400024414063,
+                    "y": -4.8038813815765027e-8,
+                    "z": -5.366668224334717
+                }
+            ],
+            "customColors": []
+        },
+        {
+            "id": "B7WFG4vJ50GMzHNfOKLiIA==",
+            "rotation": {
+                "w": -1.0,
+                "x": 0.0,
+                "y": -8.742277657347586e-8,
+                "z": 0.0
+            },
+            "position": {
+                "x": 904.5,
+                "y": 0.0,
+                "z": 3.0
+            },
+            "itemName": 55,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [
+                {
+                    "childId": "oZMZQPueM0ShjwklQjOLw==",
+                    "attachmentIndex": 0
+                }
+            ],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 905,
+                    "z": 2
+                },
+                {
+                    "x": 905,
+                    "z": 1
+                },
+                {
+                    "x": 904,
+                    "z": 2
+                },
+                {
+                    "x": 904,
+                    "z": 1
+                },
+                {
+                    "x": 905,
+                    "z": 4
+                },
+                {
+                    "x": 904,
+                    "z": 5
+                },
+                {
+                    "x": 904,
+                    "z": 4
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "ZKIJvf14E2dCohu+dupiQ==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 894.75,
+                "y": 0.0,
+                "z": -4.500002384185791
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 895,
+                    "z": -4
+                },
+                {
+                    "x": 895,
+                    "z": -5
+                },
+                {
+                    "x": 894,
+                    "z": -4
+                },
+                {
+                    "x": 894,
+                    "z": -5
+                },
+                {
+                    "x": 896,
+                    "z": -4
+                },
+                {
+                    "x": 896,
+                    "z": -5
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "RcWRE5EiME2xT1nhOJjTQ==",
+            "rotation": {
+                "w": -4.371138828673793e-8,
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "position": {
+                "x": 898.5,
+                "y": 0.875,
+                "z": 3.0
+            },
+            "itemName": 35,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 13,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 899,
+                    "z": 2
+                },
+                {
+                    "x": 898,
+                    "z": 2
+                },
+                {
+                    "x": 899,
+                    "z": 4
+                },
+                {
+                    "x": 898,
+                    "z": 4
+                }
+            ],
+            "customPositions": [
+                {
+                    "x": 898.5,
+                    "y": 0.013655662536621094,
+                    "z": 1.9808149337768555
+                },
+                {
+                    "x": 904.9400024414063,
+                    "y": -4.8038813815765027e-8,
+                    "z": -5.366668224334717
+                }
+            ],
+            "customColors": []
+        },
+        {
+            "id": "oRZMdp84dUeY1DVv7ummIA==",
+            "rotation": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "position": {
+                "x": 898.5,
+                "y": 0.0,
+                "z": 3.0
+            },
+            "itemName": 55,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [
+                {
+                    "childId": "RcWRE5EiME2xT1nhOJjTQ==",
+                    "attachmentIndex": 0
+                }
+            ],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 899,
+                    "z": 2
+                },
+                {
+                    "x": 899,
+                    "z": 1
+                },
+                {
+                    "x": 898,
+                    "z": 2
+                },
+                {
+                    "x": 898,
+                    "z": 1
+                },
+                {
+                    "x": 899,
+                    "z": 5
+                },
+                {
+                    "x": 898,
+                    "z": 5
+                },
+                {
+                    "x": 899,
+                    "z": 4
+                },
+                {
+                    "x": 898,
+                    "z": 4
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "gFH6g+gKd0+AOo12TQLHA==",
+            "rotation": {
+                "w": 2.682209014892578e-7,
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "position": {
+                "x": 894.75,
+                "y": 0.0,
+                "z": 6.499997138977051
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 895,
+                    "z": 7
+                },
+                {
+                    "x": 894,
+                    "z": 7
+                },
+                {
+                    "x": 895,
+                    "z": 6
+                },
+                {
+                    "x": 894,
+                    "z": 6
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "j1v0xeqzJEqyQcqfYsyLag==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 898.25,
+                "y": 0.0,
+                "z": -0.7500008344650269
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 898,
+                    "z": 0
+                },
+                {
+                    "x": 898,
+                    "z": -1
+                },
+                {
+                    "x": 897,
+                    "z": -1
+                },
+                {
+                    "x": 897,
+                    "z": 0
+                },
+                {
+                    "x": 899,
+                    "z": -1
+                },
+                {
+                    "x": 899,
+                    "z": 0
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "ypyESO2Ee1gwj5qzLJEQ==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 905.25,
+                "y": 0.0,
+                "z": -0.75
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 905,
+                    "z": 0
+                },
+                {
+                    "x": 905,
+                    "z": -1
+                },
+                {
+                    "x": 904,
+                    "z": 0
+                },
+                {
+                    "x": 904,
+                    "z": -1
+                },
+                {
+                    "x": 906,
+                    "z": -1
+                },
+                {
+                    "x": 906,
+                    "z": 0
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "NDbEJ+5haUW1lhGYyuEkDA==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 902.0,
+                "y": 0.0,
+                "z": -0.7499991655349731
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 902,
+                    "z": -1
+                },
+                {
+                    "x": 902,
+                    "z": 0
+                },
+                {
+                    "x": 901,
+                    "z": 0
+                },
+                {
+                    "x": 901,
+                    "z": -1
+                },
+                {
+                    "x": 903,
+                    "z": 0
+                },
+                {
+                    "x": 903,
+                    "z": -1
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "Un7bIyIz5UKqC6mm+yFdsA==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 898.25,
+                "y": 0.0,
+                "z": 2.7499990463256838
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 898,
+                    "z": 3
+                },
+                {
+                    "x": 897,
+                    "z": 3
+                },
+                {
+                    "x": 898,
+                    "z": 2
+                },
+                {
+                    "x": 897,
+                    "z": 2
+                },
+                {
+                    "x": 900,
+                    "z": 3
+                },
+                {
+                    "x": 899,
+                    "z": 3
+                },
+                {
+                    "x": 900,
+                    "z": 2
+                },
+                {
+                    "x": 899,
+                    "z": 2
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "xCnIpQS4AEWsEjmnbEh0cA==",
+            "rotation": {
+                "w": -4.371139183945161e-8,
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "position": {
+                "x": 905.0,
+                "y": 0.0,
+                "z": -4.0
+            },
+            "itemName": 41,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": true,
+                "itemName": 43,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 906,
+                    "z": -4
+                },
+                {
+                    "x": 906,
+                    "z": -3
+                },
+                {
+                    "x": 905,
+                    "z": -3
+                },
+                {
+                    "x": 905,
+                    "z": -4
+                },
+                {
+                    "x": 904,
+                    "z": -3
+                },
+                {
+                    "x": 904,
+                    "z": -4
+                },
+                {
+                    "x": 906,
+                    "z": -5
+                },
+                {
+                    "x": 905,
+                    "z": -5
+                },
+                {
+                    "x": 904,
+                    "z": -5
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "k0No3kgiwUSk6kKelHDxjg==",
+            "rotation": {
+                "w": -4.371139183945161e-8,
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "position": {
+                "x": 904.0,
+                "y": 0.0,
+                "z": -4.0
+            },
+            "itemName": 41,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": true,
+                "itemName": 43,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 905,
+                    "z": -3
+                },
+                {
+                    "x": 905,
+                    "z": -4
+                },
+                {
+                    "x": 904,
+                    "z": -3
+                },
+                {
+                    "x": 904,
+                    "z": -4
+                },
+                {
+                    "x": 903,
+                    "z": -3
+                },
+                {
+                    "x": 903,
+                    "z": -4
+                },
+                {
+                    "x": 905,
+                    "z": -5
+                },
+                {
+                    "x": 904,
+                    "z": -5
+                },
+                {
+                    "x": 903,
+                    "z": -5
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "Zw4qPWjVbkaEPAyl9AigFw==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 894.75,
+                "y": 0.0,
+                "z": -0.7500028610229492
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 895,
+                    "z": -1
+                },
+                {
+                    "x": 894,
+                    "z": -1
+                },
+                {
+                    "x": 896,
+                    "z": -1
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "IieQhFrLO023sYOjzU7qKQ==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 902.0,
+                "y": 0.0,
+                "z": -4.499999046325684
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 902,
+                    "z": -4
+                },
+                {
+                    "x": 901,
+                    "z": -4
+                },
+                {
+                    "x": 902,
+                    "z": -5
+                },
+                {
+                    "x": 901,
+                    "z": -5
+                },
+                {
+                    "x": 903,
+                    "z": -4
+                },
+                {
+                    "x": 903,
+                    "z": -5
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "zwvugTQiL0aC58viKZa93w==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 905.25,
+                "y": 0.0,
+                "z": -4.5
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 905,
+                    "z": -4
+                },
+                {
+                    "x": 904,
+                    "z": -4
+                },
+                {
+                    "x": 905,
+                    "z": -5
+                },
+                {
+                    "x": 904,
+                    "z": -5
+                },
+                {
+                    "x": 906,
+                    "z": -4
+                },
+                {
+                    "x": 906,
+                    "z": -5
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "aksaa0sm0UajyGALhp2OSA==",
+            "rotation": {
+                "w": -1.0,
+                "x": 0.0,
+                "y": -8.742277657347586e-8,
+                "z": 0.0
+            },
+            "position": {
+                "x": 902.0,
+                "y": 0.0,
+                "z": -6.0
+            },
+            "itemName": 36,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 902,
+                    "z": -5
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "VdOKCCdcJUK+9FeSW92Kg==",
+            "rotation": {
+                "w": -0.7071068286895752,
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0
+            },
+            "position": {
+                "x": 906.0,
+                "y": 0.0,
+                "z": 4.0
+            },
+            "itemName": 16,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 907,
+                    "z": 4
+                },
+                {
+                    "x": 906,
+                    "z": 4
+                },
+                {
+                    "x": 907,
+                    "z": 3
+                },
+                {
+                    "x": 906,
+                    "z": 3
+                },
+                {
+                    "x": 905,
+                    "z": 4
+                },
+                {
+                    "x": 905,
+                    "z": 3
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        },
+        {
+            "id": "TL2Hy3W4IEWaaziYlMzoGA==",
+            "rotation": {
+                "w": 0.7071067094802856,
+                "x": 0.0,
+                "y": 0.70710688829422,
+                "z": 0.0
+            },
+            "position": {
+                "x": 902.0,
+                "y": 0.0,
+                "z": 2.750002145767212
+            },
+            "itemName": 89,
+            "playerItemPurchaserSettings": {
+                "name": "",
+                "enabled": false,
+                "itemName": 0,
+                "itemQuantity": 1
+            },
+            "stackedItems": [],
+            "parentId": "",
+            "dirtAffectedCells": [
+                {
+                    "x": 902,
+                    "z": 3
+                },
+                {
+                    "x": 901,
+                    "z": 3
+                },
+                {
+                    "x": 903,
+                    "z": 3
+                }
+            ],
+            "customPositions": [],
+            "customColors": []
+        }
+    ],
+    "interiorDesigns": [
+        {
+            "UUID": "3q9rUNHQqUik+0qyXh91dg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "5C15Q56sd069heSNA4b3nA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "v8ybvd3ZoEGNcP8at9J0Kg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Ayj5XgsG10CrKiXB+RTf4w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "aYoRs3X3HEeSCk7euwBa8g==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "w9J6BffkikigwCM4q2NzVw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "noQIwemRhE+FSZ9btYR0kA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Yh/mhoNxyE2SCib4ylF47Q==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "791Vm4X5xk2n/Zg+gC8C0w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "eTM/ebbhqUKQrXmTU2krsA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "l6xaZokj3kSI8y6j6i9uEQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Jfh+maHvq0+TNAO4DXLU6A==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "H+mEoPGvnU+BmHfr0E4acQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "R5lQ47IKgUiTqboG6c/cIQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "IlUSjbFTWUWwdIZF3By65Q==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "KJAqNMc9AkuMlrrlTuknAA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "WMt+Rb+5ik2IhBCP7f028g==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "8lQ7JIuDukqbEeHr2piVKw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "7+SmMZEscEeysNJ+OuC7Ww==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "OXnh4Q7O9023uzdlHpVUzA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "2DgObnfNtkGFKUEEynGqCQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "l+Ru98VibECK+u6BuQ4yGg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "pTn329Q3x0u2Kyk9zLXwzA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "mZ6IRck1m0qba2IvWu8ryQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "JBmuK9UY/UeQPDpde4yiFg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "r5QLUdDFjkesJZ0aK7hceA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "8C7sWjfBOkiUcpN61p40NA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "WQTCKKLrWkmmLEbT+BssRw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "yCmaGVCWDUuPfkwcvMeDDg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "6g69FwYIIUiX6jT3TFlpNw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ReJ31I41S0KI5GMq2jspCQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "UjHlHPy7cUe2stSqNuy6QA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "jk45Gl3xRUiLnMe2TTAoLA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "cmmXNNcIWkSJKW6fpsGbBA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "kh7IkHloZE6ZgXj9UAa1Hw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "77a+MMcEukCqFJLWvVOpkA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "zrMghXwXQEi2o9tthOAnng==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "eiiEhdu/KU6xQAXE0lNcLA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "R2hZn8pLk0m9n25dWHHOSw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "SH7OKGB8bUGj9Q9hyfav5w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "FLAR4cAVM0e965jVa/agiA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "KSeJgTetRkysACWeI8UK4A==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "+jZrSMaNS02svWCCCrci9w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "9sH5fBDIDEG0P/g5SxPnPA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "6xub/ShHRkWtCPPfDogHEg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "N574ZMPS5k+dx91Rtzue/w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "0qxAH+90fEWR6qkEhEpdjQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "rHFDIZ15SkSLG6OG64HpMg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "yOwBqhv1nEehVuxq+B1NRg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "OyaybCacfUSWKbgNHHPTpA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "zBWTX4DZK0SR4laor8Lcqg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "tPXLiSTqL0GngO6oXdm9vA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "j0FnNWjDdEqckLpYaKCsUA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "q/2VUktHfUKB3sJJQeXk7A==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "b+VlhyAEHkuNF3UA5PKY2g==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "EAWkmEtdAECqGi0dMbaiPw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ZV8cN4MeCECS0i9pT9j0/g==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "WLyq6eaYkEGwVPK30O07FA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "1pcWSLiwwUeSKlVBmMGIMg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "zUpKq5kFwEy+Veoo/lvjPQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "7flzdV34VEGLEXRAffTGFw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "wMH6WkZ6UEWt1sxpM7oDvg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "8pgOWaTWg0a3wmfrDDNrcg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "E4oOX5ascE6EWArzYVM96A==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "LGBqnfHwXEiDTOFIAXbOow==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "z/dI5EBl2UOSl560hPPHPQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "TRlvxjEmUkGWfIzpFNgZvQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Ors51fcYPEukCVOLVyigsQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "xYCwK2UTNkOtGMFjpgne0w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "sSgMubHxdk61FJPeDbEPRw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "pEXmkV72d0ymNRcD355Q/A==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "/9MgE334yE6g/hxqz0h8bA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "3zfCVGFrJ0y90WHYgmmwJQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "t5OLxd/Lhk2Bm3MhA/Aw3g==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "YtsWgAWaT0OTE1xPJIrgsQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "XvyKhtO1I0eRcPU0dZjb8Q==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ATXTIXJ3nE+LsuRZ64gSNg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "rZ0gctMzaUaY5X4fizOZUA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "hcCAeHvekUSjsOVPZIIsRw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "nWHs1ue5Y0OPKi7xfZRDpg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "6mPSMM5k/UCY6yAzCaEEaw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "sKIpnleUHkeCXj2NH5bYTA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "qlS7t/fvrUaL9Qj0hEF+OA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "7AvfiavngEatWX8Jsnf7jQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "9bqMwZ5oMUOqKOidrA82qg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "mA8pb/aWAkGSk96vfOGmAA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "SRcQmiNb902v0TxA51XtkA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "wEbHkaxEYEKZcyxcdCULNg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "8YzVDop1CU6f+Uo5Un/Aqg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "H/DTvNRlDEOSpHbKSjXJZQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "zfH5EPFiLU2WOa0MQ052/w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "6P31J+T9y0C2ulx1ceUdZw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "YiSXOaCQSEuT73LFJPSEhA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "EooPPgG6TUaYvuh8VC8Xzg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "AxUQlpyYPE2BPBlMAEJO3w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "5h3FLm/6hkKD6mtbGmUGtQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "zZzvDqc4+k2/MGqa4uagIQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "cMq9z1/jp0izzLyYl1WsDQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Ga6AjuXW60i1OerDvtAdCQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "heKUAITs3UuTIXbbzEZwMA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "DgtmQbSm00+M2xX/BPHG7g==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "1yi1tSr2yUOLgaMJdHYlfQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "iJPRfrBYU0yDMr37X1hXKg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "klPtV81LtkGXMYUC0cEa5A==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "7Qk3U0ohT0mjNOISoS3kEg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "nTisB2ELmkKFbt7Yo8zJbA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "CHIUNDVHcEe78+JL+zhJtQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "pfyKH7Z+wEuQksekv+I5kQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "QG+JhlgmCkibHN38yNQDdg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "zqjK66JpTkyQDltsANTpLA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "RaFyNJCGSkCd7ICOFvG49w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "BwbjzuzewkqYgzVFglVTfw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "kV0/EsugLEGPLcbR4wS2bA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "t0eYwLXEuUKmQbSxKzoyMg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Le6Bg1IKakyNkGUIKtk6uQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "freluddMvUW+ZUZnaB175w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "n8m5rpX6fkW+SSuzo/oxyQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "fGKSw84E5E+NRziDj9Zw4Q==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "H/0PUfojXkW/tFPZVBrXRw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "jcC2V0DCrkyGBMfSaTIW1w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "QIJUUl/XdU2pzhLc6odIvw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Qv1FHZUO9Uef9tWA95lqCw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "I5BH5OnUpki9bAXVI+2Kyw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "hRxICQyvQEyenikrSfjsqA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "N3q24FoCMEiZM9UmIas2UQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Id27BOOtI0qtDoGT6t6hig==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "aCLNdSxWHk2s+n1k9PRaBw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "SpZOco4XM06uf0IudSRy7A==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "W2nWakr7h0aS1w27RRagJA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Mht7czn8WEadZSaBUFb9cQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "3jpx3IDOq0yFyUMvCQvIkg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "t1WMY2epiUuHQLybLYNwCg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "2OjGnaxG7EuG0lbM1uF4Rg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "L1ucPd7Px0+U09hLoIcBUQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "O9NmPsKvJEqtHChgtmEr1g==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "4lUY2xr/qkmWVdRu3ydZUg==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "UhMkc2nO40CzCmALHuuodg==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ySBEEUGq4Ea7guBqxLFdcA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "U3Un6g/H20S1ok8zzC6lcQ==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "/stJ/wxB6UC0wQtTbPw1TA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "VpbroB+psEyb+TXv5IKNmQ==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "3hP9QBYvmEm2SaL6KQq7WQ==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "xwfWGdzXxEisQg9FZhMLOw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "jFd5A7gpOEqyRBFyJfA+lA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "aFHofJhuxE6OOaFQIbeydA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "syRE8KXcpUCCz/KBOdagxQ==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Dz8w7qzUTEKFPrjXEqFPIw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "LAf5w/l5m0+UfHrC592MLg==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "9PlSuIcQ3k+K/4SGv58IKw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "evrL0ShBTEipMU/mhXnCeQ==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "1D+Hu0UuUUu/WGaOLdLHzw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "II9YBR5ZQEqhic7H1q8JJA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "hTgfwp/dWEKGT9eeR7iGug==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ahVrcZmvWkKYZDmx/w7CDg==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "lP+I0cFDckuG0B6UGdXljA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "1Zv+qf+glkaPi7PrROPfyQ==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "MBryoBqWcEKDQ0wxngtg/A==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Hd9ddFkpjka3hgqXASmrvA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "uDJ+j5wrwUqA285NRaczTQ==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "FVUy3S9yQ0+sYYRmGvt6fg==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "YuLtgAnRl0W/LEsrUG9XIw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "dR3L8Pqy4UWYiyODiQP+nA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ZElCxNZbvkyeSsZh5kkWxw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "xlb4/aa3QkWjvXHZVI34YA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "XhNDq3KcpE6yBYc5UgK7nw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "GzO8UDDaGUeXrJxeWnoO6w==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "bYXgG01PWkyXtkasmbMTnA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "m2A9qYxlyUGmandyAsQWiQ==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "FdmwVofnEUSVTMPrGwlcEQ==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ALZWNOxDikKyuz+AAFNe4g==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "6PTmF2UCYkuNlW8VSk5enA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "FzAouPjtwEerWE+GGwBuPw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "zHzwnaBqOk+d1++W0gwQ6Q==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "7/NxJ5RdhEyIdTHYkNXS8Q==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "E2sXjoGJEU6PSbOQGllJTw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "jb6DjhZ8SU+585hmG6RTSQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "c3XiKEvRC0ecbcfHNLa7Hg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "X+6lY2J+A0uAlPWUImQlig==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "4tcz8dsQb0O8cM9sgHHFJQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "sI4Ejz8G50ec65TxU4+JJg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "FB6m1As9lU2wr7UQlhJUYw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ZY2144uItka+i231TCR+xQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "R97cnj4TAUSt9vi6oVdllg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "NkJYFxdJT0alKYosH4w4zA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "oHz8x4UGpUGoEcNxRrl6sg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "fGxOopjQyEKJt3XrakNhiA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "4VpaYLgqvEysNcWPiABJcw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "YzI/TJgGIUaiinupyaAYhA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "CsD21NZuJkGWffPa9MpK3w==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "mbx1XaJ3wU+AGiCuVFOpuw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Ef5c1/S0D069S/Nx33wkaw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "+StShFslCku/3ptK8sVyVQ==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "xtY0LlfRT0i5c79ou8YRpw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "3rHUjng/e0StKSszdkSiXA==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ynyk1qMwAUO/uGB8VdLTRw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Vy2YGs6nAUy7delkbp5XWg==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "58oqS3AOrkyw+UjeLeFeyw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "uClsN3YhVk6CAVNV50BOMw==",
+            "materials": [
+                {
+                    "MaterialID": "j9V3j8UTE0SOnwqOLUfiHQ==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Q4ehnbgw0UKrwnZtHbsb8Q==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "H/84X6YEF0Giq5zDsf/irg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "yB67wuYMR0yuRKb8PqG/xQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Ht+8KAONqUWVyMJ/ZdFz7w==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "UWiuSX6iQ0W2JMdMNoeQtw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "1LeHvkH1KkqpM4PL44jq1g==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "DpomuanrLU+gd/ddNCHiaA==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "tGpnL0L0GUKAd5G1kBNIQg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ltC72MMunkKTp4JUnrihUQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "X0yhICJ3Z0upsJSLHrojNQ==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "RoBCjYQHbE+bL3hdyOnBZw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ok8GmWdR3EaTKDqfL4PKzw==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "sC7gNhnXWEOJCYG6eTAS0Q==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ilSEaob2MUeg7/57gO3v3A==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "xa4qRtQzvkK4qqwLAPZdCg==",
+            "materials": [
+                {
+                    "MaterialID": "t95A1k+p2UW17PMJJ2jnXA==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "e48BAo59mEGBT0zZ2dOycA==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "uQ4EprfVUE2gnzb0cLD9mQ==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "aE1OYVozjU+ZrZ/KtZe8Vg==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "VUAuytOjMEioVzfDTzO7lQ==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "u20GXsR+hkG29qTTjNpKTw==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "R8IpuQ6pS0+jkYGmsa0/JQ==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "cS9W7S1T60aZ0x5xLoInHA==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "fWWDzhOV00uptHc8BI76sw==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "4xSk5J+e0EO5Q6eGQNraVQ==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ft2XA32o+UKec1vEh+V2kw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "jRgH5ePbOUSrXnGooc5dOg==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "AsFomPlRP0qeoH4rUc+olA==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "HNw4h2PTME6g1ykq3pmxQw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "vmefc9Slj0m35KbY7nW3MQ==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "bTFiWgtcUkq0PcovYJjscQ==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "6e39LCpjok2Gb4nRSb6qeg==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "fSSmapkmwEycnYULzP3ZQg==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "eT0FD+evpke3ftZONGbbww==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "uGENNLAfh0KHrRd3RQeTuw==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "iRsGg+nLFkm4VSK4vMflGQ==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "DMMBwISgSEqdn6avBlRx9g==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "DO4RTqlgBkqY4bRdWbdH2A==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "0Jr6D9tVukuKNupuR72nwQ==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "1vCNgwEYDkOwiceCyWr2Ig==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "NWmtazDJXESyXkES+aOulw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 3,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "cpfuQFr46U68njQcpjRIGw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "st6mbgeNOkGSsGNTeBxAtw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "+Iw323iCiEGWefcxdJi+jg==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "UA0Ld7Tie0y4O4AT75gIcw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "JA0NMxJV10u7yzjgeFF0mw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "2WNavDNVnkKw1YHibk5qdA==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "zxYvENeobkKGpJOKrePHmA==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ycc9SIpFQEOfG0VncFr/zg==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "wN5/Z8IFckWMviBJNHPKzw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "WpspYTx4rUO9jiNYJ1ppmg==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "nDrqzd0D5E6Hh2rU9jR0hw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": true
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Gzk60ChiBkSChgo5XUUsRw==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": true
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 3,
+                    "ColorIndex": 0,
+                    "ignore": true
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 4,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 5,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "JxwKFFDAjES22hRCPy9WqA==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": true
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "n3sETsM49kmO5rMs/1Ba8A==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "5/2+aPhgcky+6FupQxzy6Q==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": true
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "rjf1poIvNUG1SOoDjA0uhQ==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "pjhjBYWV9U252FvCijYKSQ==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "7dYrJiU/DE+56PdjA7B/mw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": true
+                }
+            ]
+        },
+        {
+            "UUID": "2CtbRHStUkqjwmYvsBDNeg==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": true
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "peBfkwvUmker11KZtQXDYA==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": true
+                }
+            ]
+        },
+        {
+            "UUID": "bievRCn6LECZoO7z3L3Ucw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "1N9FHe/26EKcoPNpNLPZkw==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": true
+                }
+            ]
+        },
+        {
+            "UUID": "Yrw/SSnsJEibUuz+e/XJ4Q==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 3,
+                    "ColorIndex": 0,
+                    "ignore": true
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 4,
+                    "ColorIndex": 0,
+                    "ignore": true
+                }
+            ]
+        },
+        {
+            "UUID": "7ROCJeRbx0SV9egp26RuUg==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": true
+                }
+            ]
+        },
+        {
+            "UUID": "WKHwo3s3JUq9gYnJWjvEhQ==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "c5eBr/XADkmkgo/m6teAWg==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "6UL7p1mhSEeZcsuNGqb8oQ==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "KOfQb5ujAUG4k8RByFisFQ==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "Ms3gRJmmfEiD5PlS/DqF3Q==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "ymnB3BFQpkysIwvxXICMrA==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "bnqDyeKhTUOADc1LUGobJA==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "pXecXQDe0U6skwt9hJVGbg==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "FvGcl88WLkS3MQ7y6Kynog==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "oGzlh6t5IUWACMSDnz7erg==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "VMhPF1jp0EKslxlznn/tKg==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "6JEZs1HPPUKmZM4DE5XApg==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "zoraVN4xLE+76j6xflD5Vg==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": true
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "TlQnQwQQmEqmQrxNvPTZyA==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": true
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "C2xiNvw5jUCG78gw6fUNwA==",
+            "materials": [
+                {
+                    "MaterialID": "nI+pOLtza0WfhJnZgnGkUw==",
+                    "MaterialIndex": 1,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "QMvuURzim0+MYBY1GIXY7Q==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 5,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "81Qo8PYe3U2lUPOEClbtMg==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 4,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "oJ6V5vCjnk6x0B0z9SGGtw==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 5,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "+i3xEa9zd0m2dxp9QEA==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 5,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "PErjG1PC60WDPpZ3fumE4g==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 5,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "kFM+09XZTEiiQHgYX7JJpQ==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 2,
+                    "ColorIndex": 0,
+                    "ignore": false
+                },
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 4,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        },
+        {
+            "UUID": "4QxwIaI2HkmES8JHaNHSkw==",
+            "materials": [
+                {
+                    "MaterialID": "zGCYxIqv8Umn3b+p05+WBw==",
+                    "MaterialIndex": 0,
+                    "ColorIndex": 0,
+                    "ignore": false
+                }
+            ]
+        }
+    ],
+    "BusinessType": 7,
+    "BuildingSize": 2,
+    "BuildingVersion": 2,
+    "LayoutName": ""
+}
