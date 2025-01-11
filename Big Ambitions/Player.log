@@ -1,0 +1,93 @@
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+Initialize engine version: 2022.3.39f1 (4e1b0f82c39a)
+[Subsystems] Discovering subsystems at path H:/Big.Ambitions.v0.7.Build.2851/Big Ambitions/Big Ambitions_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8059 MB
+    Driver:   32.0.15.6636
+<RI> Initializing input.
+New input system (experimental) initialized
+Using Windows.Gaming.Input
+<RI> Input initialized.
+<RI> Initialized touch support.
+[PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
+UnloadTime: 3.024300 ms
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+OdinSerializer.UnitySerializationInitializer:Initialize()
+
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+OdinSerializer.ArchitectureInfo:SetRuntimePlatform(RuntimePlatform)
+OdinSerializer.UnitySerializationInitializer:Initialize()
+
+Steam User Stats Recieved!
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAPI:OnUserStatsReceived(SteamId, Result)
+Steamworks.<>c__DisplayClass29_0`1:<Install>b__0(IntPtr)
+Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
+Steamworks.Dispatch:Frame(HSteamPipe)
+Steamworks.<LoopClientAsync>d__22:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+Steamworks.SteamClient:Init(UInt32, Boolean)
+SteamAPI:InitSteam(UInt32)
+SteamAPI:Awake()
+
+Init Steam with: 1331550
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAPI:InitSteam(UInt32)
+SteamAPI:Awake()
+
+Game Analytics data collection started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainMenuController:Start()
+
+Loaded EA 0.7 (Build 2851)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MainMenuController:Start()
+
+Steam User Stats Recieved!
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAPI:OnUserStatsReceived(SteamId, Result)
+Steamworks.<>c__DisplayClass29_0`1:<Install>b__0(IntPtr)
+Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
+Steamworks.Dispatch:Frame(HSteamPipe)
+
+Failed to create agent because there is no valid NavMesh
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+User Stats Stored
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Steamworks.<>c__DisplayClass29_0`1:<Install>b__0(IntPtr)
+Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
+Steamworks.Dispatch:Frame(HSteamPipe)
+
+User Stats Stored
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Steamworks.<>c__DisplayClass29_0`1:<Install>b__0(IntPtr)
+Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
+Steamworks.Dispatch:Frame(HSteamPipe)
+
+Unloading 2914 unused Assets to reduce memory usage. Loaded Objects now: 865998.
+Total: 475.072100 ms (FindLiveObjects: 254.757600 ms CreateObjectMapping: 37.456400 ms MarkObjects: 164.874500 ms  DeleteObjects: 17.982100 ms)
+
