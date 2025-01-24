@@ -14,7 +14,7 @@ Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
 [PhysX] Initialized MultithreadedTaskDispatcher with 20 workers.
-UnloadTime: 3.024300 ms
+UnloadTime: 48.566000 ms
 Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
@@ -28,6 +28,10 @@ UnityEngine.Debug:Log(Object)
 OdinSerializer.ArchitectureInfo:SetRuntimePlatform(RuntimePlatform)
 OdinSerializer.UnitySerializationInitializer:Initialize()
 
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Steam User Stats Recieved!
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
@@ -49,6 +53,7 @@ UnityEngine.Debug:Log(Object)
 SteamAPI:InitSteam(UInt32)
 SteamAPI:Awake()
 
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Game Analytics data collection started
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
@@ -70,7 +75,9 @@ Steamworks.<>c__DisplayClass29_0`1:<Install>b__0(IntPtr)
 Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
 Steamworks.Dispatch:Frame(HSteamPipe)
 
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Failed to create agent because there is no valid NavMesh
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
 User Stats Stored
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
@@ -88,8 +95,35 @@ Steamworks.<>c__DisplayClass29_0`1:<Install>b__0(IntPtr)
 Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
 Steamworks.Dispatch:Frame(HSteamPipe)
 
-Unloading 2914 unused Assets to reduce memory usage. Loaded Objects now: 865998.
-Total: 475.072100 ms (FindLiveObjects: 254.757600 ms CreateObjectMapping: 37.456400 ms MarkObjects: 164.874500 ms  DeleteObjects: 17.982100 ms)
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Unloading 2913 unused Assets to reduce memory usage. Loaded Objects now: 865991.
+Total: 253.090700 ms (FindLiveObjects: 128.685600 ms CreateObjectMapping: 20.541800 ms MarkObjects: 93.968100 ms  DeleteObjects: 9.894000 ms)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Next rain will have 0.724 of intensity. It will start on day 193 at 23:15 with 31 minutes of pre-rain period after the start and end on day 194 at 01:42 with 41 minutes of post-rain period before the end
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BigAmbitions.DayNightCycle.RainHelper:UpdateIsRaining()
+BigAmbitions.DayNightCycle.RainHelper:UpdateRain()
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 1306 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
 Failed to create agent because it is not close enough to the NavMesh
 ThirdPersonCharacter:ToggleVisibility(Boolean)
@@ -102,7 +136,137 @@ UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&
 UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
 UnityEngine.EventSystems.EventSystem:Update()
 
-[ line -1829841640]
+[ line 1024383624]
+
+Localization for key '543rd street' not found
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Localizor.LocalizorManager:GetLocalization(String)
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnUpdateText()
+UI.Smartphone.Apps.Contacts.TaxesMessage:SetData(Taxes)
+UI.Smartphone.Apps.Contacts.Contacts:ShowMessage(TextMessage)
+UI.Smartphone.Apps.Contacts.Contacts:ShowContactMessages(Contact)
+UI.Smartphone.Apps.Contacts.<ShowContactConversationIEnumerator>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Localization for key '185th avenue' not found
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Localizor.LocalizorManager:GetLocalization(String)
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnUpdateText()
+UI.Smartphone.Apps.Contacts.TaxesMessage:SetData(Taxes)
+UI.Smartphone.Apps.Contacts.Contacts:ShowMessage(TextMessage)
+UI.Smartphone.Apps.Contacts.Contacts:ShowContactMessages(Contact)
+UI.Smartphone.Apps.Contacts.<ShowContactConversationIEnumerator>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Localization for key '265th avenue' not found
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Localizor.LocalizorManager:GetLocalization(String)
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnUpdateText()
+UI.Smartphone.Apps.Contacts.TaxesMessage:SetData(Taxes)
+UI.Smartphone.Apps.Contacts.Contacts:ShowMessage(TextMessage)
+UI.Smartphone.Apps.Contacts.Contacts:ShowContactMessages(Contact)
+UI.Smartphone.Apps.Contacts.<ShowContactConversationIEnumerator>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Localization for key '183rd street' not found
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Localizor.LocalizorManager:GetLocalization(String)
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnUpdateText()
+UI.Smartphone.Apps.Contacts.TaxesMessage:SetData(Taxes)
+UI.Smartphone.Apps.Contacts.Contacts:ShowMessage(TextMessage)
+UI.Smartphone.Apps.Contacts.Contacts:ShowContactMessages(Contact)
+UI.Smartphone.Apps.Contacts.<ShowContactConversationIEnumerator>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Localization for key '6第12大街' not found
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Localizor.LocalizorManager:GetLocalization(String)
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnUpdateText()
+UI.Smartphone.Apps.Contacts.TaxesMessage:SetData(Taxes)
+UI.Smartphone.Apps.Contacts.Contacts:ShowMessage(TextMessage)
+UI.Smartphone.Apps.Contacts.Contacts:ShowContactMessages(Contact)
+UI.Smartphone.Apps.Contacts.<ShowContactConversationIEnumerator>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Localization for key '543rd street' not found
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Localizor.LocalizorManager:GetLocalization(String)
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnUpdateText()
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnEnable()
+UI.Smartphone.Apps.Contacts.Contacts:ShowContactMessages(Contact)
+UI.Smartphone.Apps.Contacts.<ShowContactConversationIEnumerator>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Localization for key '185th avenue' not found
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Localizor.LocalizorManager:GetLocalization(String)
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnUpdateText()
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnEnable()
+UI.Smartphone.Apps.Contacts.Contacts:ShowContactMessages(Contact)
+UI.Smartphone.Apps.Contacts.<ShowContactConversationIEnumerator>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Localization for key '265th avenue' not found
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Localizor.LocalizorManager:GetLocalization(String)
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnUpdateText()
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnEnable()
+UI.Smartphone.Apps.Contacts.Contacts:ShowContactMessages(Contact)
+UI.Smartphone.Apps.Contacts.<ShowContactConversationIEnumerator>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Localization for key '183rd street' not found
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Localizor.LocalizorManager:GetLocalization(String)
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnUpdateText()
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnEnable()
+UI.Smartphone.Apps.Contacts.Contacts:ShowContactMessages(Contact)
+UI.Smartphone.Apps.Contacts.<ShowContactConversationIEnumerator>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Localization for key '6第12大街' not found
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Localizor.LocalizorManager:GetLocalization(String)
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnUpdateText()
+Localizor.LanguageChangeEvent.TextLocalizationComponent:OnEnable()
+UI.Smartphone.Apps.Contacts.Contacts:ShowContactMessages(Contact)
+UI.Smartphone.Apps.Contacts.<ShowContactConversationIEnumerator>d__47:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
 
 Game Saving Progress Started
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
@@ -112,7 +276,7 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 2681 ms
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 1419 ms
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -120,6 +284,40 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18938 unused Assets to reduce memory usage. Loaded Objects now: 1080508.
+Total: 390.224000 ms (FindLiveObjects: 175.163800 ms CreateObjectMapping: 21.571300 ms MarkObjects: 167.537600 ms  DeleteObjects: 25.950500 ms)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 1209 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+A Line Renderer component should be on a RectTransform positioned at (0,0,0), do not use in child Objects.
+For best results, create separate RectTransforms as children of the canvas positioned at (0,0) for a UILineRenderer and do not move.
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+UnityEngine.UI.Extensions.UILineRenderer:OnEnable()
+AwesomeCharts.ViewCreator:InstantiateLineRenderer(String, Transform, Vector2)
+AwesomeCharts.LineChart:UpdateLineRendererInstances(Int32)
+AwesomeCharts.LineChart:OnDrawChartContent()
+AwesomeCharts.BaseChart`1:Update()
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 A Line Renderer component should be on a RectTransform positioned at (0,0,0), do not use in child Objects.
 For best results, create separate RectTransforms as children of the canvas positioned at (0,0) for a UILineRenderer and do not move.
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
@@ -153,7 +351,90 @@ UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&
 UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
 UnityEngine.EventSystems.EventSystem:Update()
 
-[ line -1829841640]
+[ line 1024383624]
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 1214 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
 
 Game Saving Progress Started
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
@@ -163,7 +444,7 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 3125 ms
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 1153 ms
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -171,96 +452,6 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
-Returned to main menu
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-UI.MiniMenu.MiniMenu:OpenMainMenu()
-UnityEngine.Events.UnityEvent:Invoke()
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
-UnityEngine.EventSystems.EventSystem:Update()
-
-One Static Lighting Sky component was already set for baking, only the latest one will be used.
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-UnityEngine.Rendering.HighDefinition.SkyManager:RegisterStaticLightingSky(StaticLightingSky)
-UnityEngine.Rendering.HighDefinition.StaticLightingSky:OnEnable()
-
-System.Exception: Calling SteamClient.Init but is already initialized
-  at Steamworks.SteamClient.Init (System.UInt32 appid, System.Boolean asyncCallbacks) [0x00000] in <00000000000000000000000000000000>:0 
-  at SteamAPI.InitSteam (System.UInt32 id) [0x00000] in <00000000000000000000000000000000>:0 
-  at SteamAPI.Awake () [0x00000] in <00000000000000000000000000000000>:0 
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-SteamAPI:InitSteam(UInt32)
-SteamAPI:Awake()
-
-Game Analytics data collection started
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-MainMenuController:Start()
-
-Loaded EA 0.7 (Build 2851)
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-MainMenuController:Start()
-
-Failed to create agent because there is no valid NavMesh
-User Stats Stored
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-Steamworks.<>c__DisplayClass29_0`1:<Install>b__0(IntPtr)
-Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
-Steamworks.Dispatch:Frame(HSteamPipe)
-
-User Stats Stored
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-Steamworks.<>c__DisplayClass29_0`1:<Install>b__0(IntPtr)
-Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
-Steamworks.Dispatch:Frame(HSteamPipe)
-
-User Stats Stored
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-Steamworks.<>c__DisplayClass29_0`1:<Install>b__0(IntPtr)
-Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
-Steamworks.Dispatch:Frame(HSteamPipe)
-
-User Stats Stored
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-Steamworks.<>c__DisplayClass29_0`1:<Install>b__0(IntPtr)
-Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
-Steamworks.Dispatch:Frame(HSteamPipe)
-
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 12529 unused Assets to reduce memory usage. Loaded Objects now: 866214.
-Total: 728.617100 ms (FindLiveObjects: 328.576900 ms CreateObjectMapping: 45.164100 ms MarkObjects: 278.142700 ms  DeleteObjects: 76.731800 ms)
-
-"SetPath" can only be called on an active agent that has been placed on a NavMesh.
-PlayerController:SetNewDestination(Vector3, Boolean, Boolean)
-MouseController:Update()
-
-[ line -1829839320]
-
-"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
-PlayerController:SetNewDestination(Vector3, Boolean, Boolean)
-MouseController:Update()
-
-[ line -1829839288]
-
 Failed to create agent because it is not close enough to the NavMesh
 ThirdPersonCharacter:ToggleVisibility(Boolean)
 CarController:ExitVehicle()
@@ -272,12 +463,9 @@ UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&
 UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
 UnityEngine.EventSystems.EventSystem:Update()
 
-[ line -1829841640]
+[ line 1024383624]
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6076 unused Assets to reduce memory usage. Loaded Objects now: 1066019.
-Total: 846.399800 ms (FindLiveObjects: 347.788800 ms CreateObjectMapping: 44.909000 ms MarkObjects: 435.128900 ms  DeleteObjects: 18.571500 ms)
-
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Failed to create agent because it is not close enough to the NavMesh
 ThirdPersonCharacter:ToggleVisibility(Boolean)
 CarController:ExitVehicle()
@@ -289,21 +477,9 @@ UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&
 UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
 UnityEngine.EventSystems.EventSystem:Update()
 
-[ line -1829841640]
+[ line 1024383624]
 
-Failed to create agent because it is not close enough to the NavMesh
-ThirdPersonCharacter:ToggleVisibility(Boolean)
-CarController:ExitVehicle()
-UI.ItemPanel.ItemPanelUI:ClickPark()
-UnityEngine.Events.UnityEvent:Invoke()
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
-UnityEngine.EventSystems.EventSystem:Update()
-
-[ line -1829841640]
-
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Game Saving Progress Started
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
@@ -312,104 +488,7 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 2975 ms
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-SaveGameManager:SerializeSaveGameThreaded(Object)
-System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
-System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
-
-Failed to create agent because it is not close enough to the NavMesh
-ThirdPersonCharacter:ToggleVisibility(Boolean)
-CarController:ExitVehicle()
-UI.ItemPanel.ItemPanelUI:ClickSell()
-UnityEngine.Events.UnityEvent:Invoke()
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
-UnityEngine.EventSystems.EventSystem:Update()
-
-[ line -1829841944]
-
-Failed to create agent because it is not close enough to the NavMesh
-ThirdPersonCharacter:ToggleVisibility(Boolean)
-CarController:ExitVehicle()
-UI.ItemPanel.ItemPanelUI:ClickPark()
-UnityEngine.Events.UnityEvent:Invoke()
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
-UnityEngine.EventSystems.EventSystem:Update()
-
-[ line -1829841640]
-
-Failed to create agent because it is not close enough to the NavMesh
-ThirdPersonCharacter:ToggleVisibility(Boolean)
-CarController:ExitVehicle()
-UI.ItemPanel.ItemPanelUI:ClickPark()
-UnityEngine.Events.UnityEvent:Invoke()
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
-UnityEngine.EventSystems.EventSystem:Update()
-
-[ line -1829841640]
-
-Game Saving Progress Started
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-SaveGameManager:SerializeSaveGameThreaded(Object)
-System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
-System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
-
-Failed to create agent because it is not close enough to the NavMesh
-ThirdPersonCharacter:ToggleVisibility(Boolean)
-CarController:ExitVehicle()
-UI.ItemPanel.ItemPanelUI:ClickPark()
-UnityEngine.Events.UnityEvent:Invoke()
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
-UnityEngine.EventSystems.EventSystem:Update()
-
-[ line -1829841640]
-
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 3187 ms
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-SaveGameManager:SerializeSaveGameThreaded(Object)
-System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
-System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
-
-Failed to create agent because it is not close enough to the NavMesh
-ThirdPersonCharacter:ToggleVisibility(Boolean)
-CarController:ExitVehicle()
-UI.ItemPanel.ItemPanelUI:ClickPark()
-UnityEngine.Events.UnityEvent:Invoke()
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
-UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
-UnityEngine.EventSystems.EventSystem:Update()
-
-[ line -1829841640]
-
-Game Saving Progress Started
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-SaveGameManager:SerializeSaveGameThreaded(Object)
-System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
-System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
-
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 2722 ms
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 1341 ms
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -418,39 +497,73 @@ System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback,
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 2905 unused Assets to reduce memory usage. Loaded Objects now: 1077683.
-Total: 775.535400 ms (FindLiveObjects: 322.897900 ms CreateObjectMapping: 43.493000 ms MarkObjects: 393.164300 ms  DeleteObjects: 15.978800 ms)
+Unloading 7064 unused Assets to reduce memory usage. Loaded Objects now: 1121879.
+Total: 388.045800 ms (FindLiveObjects: 193.099000 ms CreateObjectMapping: 20.945300 ms MarkObjects: 158.656100 ms  DeleteObjects: 15.344500 ms)
 
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 1171 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 A Line Renderer component should be on a RectTransform positioned at (0,0,0), do not use in child Objects.
 For best results, create separate RectTransforms as children of the canvas positioned at (0,0) for a UILineRenderer and do not move.
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:LogWarning(Object)
 UnityEngine.UI.Extensions.UILineRenderer:OnEnable()
-AwesomeCharts.ViewCreator:InstantiateLineRenderer(String, Transform, Vector2)
-AwesomeCharts.LineChart:UpdateLineRendererInstances(Int32)
-AwesomeCharts.LineChart:OnDrawChartContent()
-AwesomeCharts.BaseChart`1:Update()
-
-A Line Renderer component should be on a RectTransform positioned at (0,0,0), do not use in child Objects.
-For best results, create separate RectTransforms as children of the canvas positioned at (0,0) for a UILineRenderer and do not move.
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-UnityEngine.UI.Extensions.UILineRenderer:OnEnable()
-AwesomeCharts.ViewCreator:InstantiateLineRenderer(String, Transform, Vector2)
-AwesomeCharts.LineChart:UpdateLineRendererInstances(Int32)
-AwesomeCharts.LineChart:OnDrawChartContent()
-AwesomeCharts.BaseChart`1:Update()
-
-A Line Renderer component should be on a RectTransform positioned at (0,0,0), do not use in child Objects.
-For best results, create separate RectTransforms as children of the canvas positioned at (0,0) for a UILineRenderer and do not move.
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogWarning(Object)
-UnityEngine.UI.Extensions.UILineRenderer:OnEnable()
-UI.Smartphone.Apps.EconoView.EconoView:SetBusiness(BuildingRegistration)
-UI.Smartphone.Apps.EconoView.EconoView:OnEnable()
 UI.Smartphone.FullMenu:SelectApp(AppName)
 UnityEngine.Events.UnityEvent:Invoke()
 UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
@@ -465,8 +578,6 @@ UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:LogWarning(Object)
 UnityEngine.UI.Extensions.UILineRenderer:OnEnable()
-UI.Smartphone.Apps.EconoView.EconoView:SetBusiness(BuildingRegistration)
-UI.Smartphone.Apps.EconoView.EconoView:OnEnable()
 UI.Smartphone.FullMenu:SelectApp(AppName)
 UnityEngine.Events.UnityEvent:Invoke()
 UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
@@ -505,7 +616,201 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 2687 ms
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 1172 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 1136 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 1254 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2307 unused Assets to reduce memory usage. Loaded Objects now: 1132008.
+Total: 389.115900 ms (FindLiveObjects: 177.968500 ms CreateObjectMapping: 21.795300 ms MarkObjects: 174.859500 ms  DeleteObjects: 14.491900 ms)
+
+Next rain will have 0.832 of intensity. It will start on day 196 at 08:21 with 39 minutes of pre-rain period after the start and end on day 197 at 03:17 with 33 minutes of post-rain period before the end
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BigAmbitions.DayNightCycle.RainHelper:UpdateIsRaining()
+BigAmbitions.DayNightCycle.RainHelper:UpdateRain()
+
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Failed to create agent because it is not close enough to the NavMesh
+ThirdPersonCharacter:ToggleVisibility(Boolean)
+CarController:ExitVehicle()
+UI.ItemPanel.ItemPanelUI:ClickPark()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+[ line 1024383624]
+
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 1341 ms
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -521,7 +826,7 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 2690 ms
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\011.hsg saved in 1534 ms
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -529,6 +834,8 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Game Saving Progress Started
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
@@ -537,7 +844,7 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 2671 ms
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 1083 ms
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -545,6 +852,7 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Game Saving Progress Started
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
@@ -553,7 +861,7 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 2737 ms
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 1237 ms
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -561,6 +869,12 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 751 unused Assets to reduce memory usage. Loaded Objects now: 1133294.
+Total: 421.415400 ms (FindLiveObjects: 211.723500 ms CreateObjectMapping: 24.746600 ms MarkObjects: 176.612200 ms  DeleteObjects: 8.332400 ms)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Game Saving Progress Started
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
@@ -569,7 +883,7 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 2902 ms
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 3979 ms
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -577,6 +891,8 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Game Saving Progress Started
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
@@ -585,7 +901,7 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 2789 ms
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 1264 ms
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -593,6 +909,7 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Game Saving Progress Started
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
@@ -601,7 +918,7 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
-Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\010.hsg saved in 2964 ms
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 1125 ms
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
@@ -609,25 +926,275 @@ SaveGameManager:SerializeSaveGameThreaded(Object)
 System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
 System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
 
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 1257 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 1242 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 1298 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 1232 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 1302 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 1254 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 1165 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 1196 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 1229 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 1168 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 1147 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #1.hsg saved in 1370 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #2.hsg saved in 1226 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Game Saving Progress Started
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Game C:/Users/john lee/AppData/LocalLow/Hovgaard Games/Big Ambitions\SaveGames\EA 0.7\0QWMbFEpO0SZgXcfv7EQ==\Recover #0.hsg saved in 1176 ms
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:SerializeSaveGameThreaded(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 4834 frames, [16.0 KB-32.0 KB]: 20 frames, [32.0 KB-64.0 KB]: 1 frames, [64.0 KB-128.0 KB]: 4 frames, [128.0 KB-256.0 KB]: 23 frames, [256.0 KB-0.5 MB]: 1101 frames, [0.5 MB-1.0 MB]: 75442 frames, [1.0 MB-2.0 MB]: 14948 frames, [2.0 MB-4.0 MB]: 102 frames, [4.0 MB-8.0 MB]: 54 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 8435 frames, [16.0 KB-32.0 KB]: 16 frames, [64.0 KB-128.0 KB]: 3 frames, [128.0 KB-256.0 KB]: 3 frames, [256.0 KB-0.5 MB]: 391 frames, [0.5 MB-1.0 MB]: 382892 frames, [1.0 MB-2.0 MB]: 158825 frames, [2.0 MB-4.0 MB]: 935 frames, [4.0 MB-8.0 MB]: 218 frames
       Initial Block Size 4.0 MB
       Current Block Size 8.0 MB
-      Peak Allocated Bytes 7.7 MB
-      Overflow Count 355697
+      Peak Allocated Bytes 7.9 MB
+      Overflow Count 177941
     [ALLOC_TEMP_Job.Worker 18]
       Initial Block Size 256.0 KB
-      Current Block Size 400.0 KB
-      Peak Allocated Bytes 229.7 KB
+      Current Block Size 352.0 KB
+      Peak Allocated Bytes 212.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 0.5 MB
       Peak Allocated Bytes 509.8 KB
-      Overflow Count 304
+      Overflow Count 220
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -640,8 +1207,8 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 16]
       Initial Block Size 256.0 KB
-      Current Block Size 300.0 KB
-      Peak Allocated Bytes 194.9 KB
+      Current Block Size 392.0 KB
+      Peak Allocated Bytes 206.8 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 6]
       Initial Block Size 32.0 KB
@@ -650,23 +1217,23 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 4]
       Initial Block Size 256.0 KB
-      Current Block Size 388.0 KB
-      Peak Allocated Bytes 221.0 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 17]
-      Initial Block Size 256.0 KB
-      Current Block Size 392.0 KB
-      Peak Allocated Bytes 223.1 KB
+      Current Block Size 368.0 KB
+      Peak Allocated Bytes 214.3 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 14]
       Initial Block Size 256.0 KB
-      Current Block Size 400.0 KB
-      Peak Allocated Bytes 229.7 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 223.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 221.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 3]
       Initial Block Size 256.0 KB
-      Current Block Size 392.0 KB
-      Peak Allocated Bytes 214.3 KB
+      Current Block Size 404.0 KB
+      Peak Allocated Bytes 232.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 12]
       Initial Block Size 32.0 KB
@@ -681,7 +1248,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 1]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 3.5 KB
+      Peak Allocated Bytes 1.0 KB
       Overflow Count 0
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 19
       Initial Block Size 64.0 KB
@@ -705,8 +1272,8 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
-      Current Block Size 352.0 KB
-      Peak Allocated Bytes 212.5 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 223.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 3]
       Initial Block Size 32.0 KB
@@ -725,48 +1292,48 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 11]
       Initial Block Size 256.0 KB
-      Current Block Size 404.0 KB
-      Peak Allocated Bytes 232.0 KB
+      Current Block Size 276.0 KB
+      Peak Allocated Bytes 194.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 1.5 KB
+      Peak Allocated Bytes 54 B
       Overflow Count 0
     [ALLOC_TEMP_BatchDeleteObjects]
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 6]
-      Initial Block Size 256.0 KB
-      Current Block Size 404.0 KB
-      Peak Allocated Bytes 232.0 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 0]
-      Initial Block Size 256.0 KB
-      Current Block Size 400.0 KB
-      Peak Allocated Bytes 229.7 KB
-      Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 9]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 328.0 KB
+      Peak Allocated Bytes 198.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 220.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 392.0 KB
+      Peak Allocated Bytes 221.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 14]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 5]
-      Initial Block Size 256.0 KB
-      Current Block Size 392.0 KB
-      Peak Allocated Bytes 212.5 KB
-      Overflow Count 0
     [ALLOC_TEMP_Job.Worker 13]
       Initial Block Size 256.0 KB
-      Current Block Size 388.0 KB
-      Peak Allocated Bytes 220.9 KB
+      Current Block Size 352.0 KB
+      Peak Allocated Bytes 212.5 KB
       Overflow Count 0
     [ALLOC_TEMP_EnlightenWorker] x 5
       Initial Block Size 64.0 KB
@@ -781,7 +1348,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 2]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 1.6 KB
+      Peak Allocated Bytes 183 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 7]
       Initial Block Size 32.0 KB
@@ -795,18 +1362,18 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 9]
       Initial Block Size 256.0 KB
-      Current Block Size 384.0 KB
-      Peak Allocated Bytes 220.2 KB
+      Current Block Size 312.0 KB
+      Peak Allocated Bytes 196.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 8]
       Initial Block Size 256.0 KB
-      Current Block Size 404.0 KB
-      Peak Allocated Bytes 232.0 KB
+      Current Block Size 356.0 KB
+      Peak Allocated Bytes 198.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 7]
       Initial Block Size 256.0 KB
       Current Block Size 388.0 KB
-      Peak Allocated Bytes 221.0 KB
+      Peak Allocated Bytes 223.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
@@ -815,23 +1382,23 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 10]
       Initial Block Size 256.0 KB
-      Current Block Size 388.0 KB
-      Peak Allocated Bytes 223.1 KB
+      Current Block Size 400.0 KB
+      Peak Allocated Bytes 229.7 KB
       Overflow Count 0
     [ALLOC_TEMP_CloudJob.Worker 0]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 15.9 KB
+      Peak Allocated Bytes 3.4 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 15]
       Initial Block Size 256.0 KB
-      Current Block Size 320.0 KB
-      Peak Allocated Bytes 194.9 KB
+      Current Block Size 388.0 KB
+      Peak Allocated Bytes 223.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 12]
       Initial Block Size 256.0 KB
-      Current Block Size 392.0 KB
-      Peak Allocated Bytes 206.8 KB
+      Current Block Size 268.0 KB
+      Peak Allocated Bytes 194.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
@@ -839,31 +1406,31 @@ Memory Statistics:
       Peak Allocated Bytes 291 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 87315
+  Peak main deferred allocation count 110497
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 83 Subsections = 84992 buckets. Failed count: 11968747
-        32B: 42 Subsections = 21504 buckets. Failed count: 4028726
-        48B: 30 Subsections = 10240 buckets. Failed count: 5063932
-        64B: 31 Subsections = 7936 buckets. Failed count: 1716994
-        80B: 44 Subsections = 9011 buckets. Failed count: 588708
-        96B: 7 Subsections = 1194 buckets. Failed count: 702104
-        112B: 5 Subsections = 731 buckets. Failed count: 579309
-        128B: 14 Subsections = 1792 buckets. Failed count: 949452
+        16B: 83 Subsections = 84992 buckets. Failed count: 77708640
+        32B: 42 Subsections = 21504 buckets. Failed count: 11978226
+        48B: 30 Subsections = 10240 buckets. Failed count: 15038775
+        64B: 31 Subsections = 7936 buckets. Failed count: 6357041
+        80B: 44 Subsections = 9011 buckets. Failed count: 2369512
+        96B: 7 Subsections = 1194 buckets. Failed count: 1536314
+        112B: 5 Subsections = 731 buckets. Failed count: 1193487
+        128B: 14 Subsections = 1792 buckets. Failed count: 1718686
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [128.0 MB-256.0 MB]: 4297 frames, [256.0 MB-0.50 GB]: 4394 frames, [0.50 GB-1.00 GB]: 87838 frames
+      Peak usage frame count: [128.0 MB-256.0 MB]: 8462 frames, [256.0 MB-0.50 GB]: 789 frames, [0.50 GB-1.00 GB]: 542467 frames
       Requested Block Size 16.0 MB
-      Peak Block count 39
-      Peak Allocated memory 0.60 GB
-      Peak Large allocation bytes 116.4 MB
+      Peak Block count 45
+      Peak Allocated memory 0.76 GB
+      Peak Large allocation bytes 181.6 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 1521 frames, [32.0 MB-64.0 MB]: 2705 frames, [64.0 MB-128.0 MB]: 65 frames, [128.0 MB-256.0 MB]: 27102 frames, [256.0 MB-0.50 GB]: 65136 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 3158 frames, [32.0 MB-64.0 MB]: 5247 frames, [64.0 MB-128.0 MB]: 51 frames, [128.0 MB-256.0 MB]: 23365 frames, [256.0 MB-0.50 GB]: 519897 frames
       Requested Block Size 16.0 MB
-      Peak Block count 19
-      Peak Allocated memory 278.8 MB
+      Peak Block count 23
+      Peak Allocated memory 357.0 MB
       Peak Large allocation bytes 53.6 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -878,63 +1445,63 @@ Memory Statistics:
 [ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
   Initial Block Size 2.0 MB
   Used Block Count 1
-  Overflow Count (too large) 10
-  Overflow Count (full) 0
+  Overflow Count (too large) 12
+  Overflow Count (full) 44467
 [ALLOC_TEMP_JOB_ASYNC (Background)]
   Initial Block Size 1.0 MB
   Used Block Count 1
   Overflow Count (too large) 1
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 428
+  Peak main deferred allocation count 38
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 83 Subsections = 84992 buckets. Failed count: 11968747
-        32B: 42 Subsections = 21504 buckets. Failed count: 4028726
-        48B: 30 Subsections = 10240 buckets. Failed count: 5063932
-        64B: 31 Subsections = 7936 buckets. Failed count: 1716994
-        80B: 44 Subsections = 9011 buckets. Failed count: 588708
-        96B: 7 Subsections = 1194 buckets. Failed count: 702104
-        112B: 5 Subsections = 731 buckets. Failed count: 579309
-        128B: 14 Subsections = 1792 buckets. Failed count: 949452
+        16B: 83 Subsections = 84992 buckets. Failed count: 77708640
+        32B: 42 Subsections = 21504 buckets. Failed count: 11978226
+        48B: 30 Subsections = 10240 buckets. Failed count: 15038775
+        64B: 31 Subsections = 7936 buckets. Failed count: 6357041
+        80B: 44 Subsections = 9011 buckets. Failed count: 2369512
+        96B: 7 Subsections = 1194 buckets. Failed count: 1536314
+        112B: 5 Subsections = 731 buckets. Failed count: 1193487
+        128B: 14 Subsections = 1792 buckets. Failed count: 1718686
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [128.0 KB-256.0 KB]: 3235 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1054 frames, [16.0 MB-32.0 MB]: 693 frames, [32.0 MB-64.0 MB]: 3071 frames, [64.0 MB-128.0 MB]: 88474 frames
+      Peak usage frame count: [128.0 KB-256.0 KB]: 7988 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 466 frames, [16.0 MB-32.0 MB]: 570 frames, [32.0 MB-64.0 MB]: 224 frames, [64.0 MB-128.0 MB]: 372871 frames, [128.0 MB-256.0 MB]: 169597 frames
       Requested Block Size 16.0 MB
-      Peak Block count 7
-      Peak Allocated memory 103.2 MB
+      Peak Block count 9
+      Peak Allocated memory 135.4 MB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 302 frames, [8.0 MB-16.0 MB]: 668 frames, [16.0 MB-32.0 MB]: 2631 frames, [32.0 MB-64.0 MB]: 696 frames, [64.0 MB-128.0 MB]: 92229 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 272 frames, [8.0 MB-16.0 MB]: 1428 frames, [16.0 MB-32.0 MB]: 6755 frames, [32.0 MB-64.0 MB]: 9 frames, [64.0 MB-128.0 MB]: 26409 frames, [128.0 MB-256.0 MB]: 516844 frames
       Requested Block Size 16.0 MB
-      Peak Block count 7
-      Peak Allocated memory 95.9 MB
+      Peak Block count 15
+      Peak Allocated memory 224.0 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 9095
+  Peak main deferred allocation count 27858
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 83 Subsections = 84992 buckets. Failed count: 11968747
-        32B: 42 Subsections = 21504 buckets. Failed count: 4028726
-        48B: 30 Subsections = 10240 buckets. Failed count: 5063932
-        64B: 31 Subsections = 7936 buckets. Failed count: 1716994
-        80B: 44 Subsections = 9011 buckets. Failed count: 588708
-        96B: 7 Subsections = 1194 buckets. Failed count: 702104
-        112B: 5 Subsections = 731 buckets. Failed count: 579309
-        128B: 14 Subsections = 1792 buckets. Failed count: 949452
+        16B: 83 Subsections = 84992 buckets. Failed count: 77708640
+        32B: 42 Subsections = 21504 buckets. Failed count: 11978226
+        48B: 30 Subsections = 10240 buckets. Failed count: 15038775
+        64B: 31 Subsections = 7936 buckets. Failed count: 6357041
+        80B: 44 Subsections = 9011 buckets. Failed count: 2369512
+        96B: 7 Subsections = 1194 buckets. Failed count: 1536314
+        112B: 5 Subsections = 731 buckets. Failed count: 1193487
+        128B: 14 Subsections = 1792 buckets. Failed count: 1718686
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [256.0 MB-0.50 GB]: 96528 frames, [0.50 GB-1.00 GB]: 1 frames
+      Peak usage frame count: [256.0 MB-0.50 GB]: 551717 frames, [0.50 GB-1.00 GB]: 1 frames
       Requested Block Size 4.0 MB
-      Peak Block count 90
+      Peak Block count 91
       Peak Allocated memory 0.61 GB
       Peak Large allocation bytes 465.3 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 286 frames, [4.0 MB-8.0 MB]: 258 frames, [8.0 MB-16.0 MB]: 943 frames, [16.0 MB-32.0 MB]: 2803 frames, [128.0 MB-256.0 MB]: 576 frames, [256.0 MB-0.50 GB]: 91650 frames, [0.50 GB-1.00 GB]: 12 frames
+      Peak usage frame count: [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 228 frames, [4.0 MB-8.0 MB]: 514 frames, [8.0 MB-16.0 MB]: 2220 frames, [16.0 MB-32.0 MB]: 5493 frames, [256.0 MB-0.50 GB]: 543251 frames, [0.50 GB-1.00 GB]: 11 frames
       Requested Block Size 4.0 MB
       Peak Block count 112
       Peak Allocated memory 0.74 GB
@@ -946,22 +1513,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 83 Subsections = 84992 buckets. Failed count: 11968747
-        32B: 42 Subsections = 21504 buckets. Failed count: 4028726
-        48B: 30 Subsections = 10240 buckets. Failed count: 5063932
-        64B: 31 Subsections = 7936 buckets. Failed count: 1716994
-        80B: 44 Subsections = 9011 buckets. Failed count: 588708
-        96B: 7 Subsections = 1194 buckets. Failed count: 702104
-        112B: 5 Subsections = 731 buckets. Failed count: 579309
-        128B: 14 Subsections = 1792 buckets. Failed count: 949452
+        16B: 83 Subsections = 84992 buckets. Failed count: 77708640
+        32B: 42 Subsections = 21504 buckets. Failed count: 11978226
+        48B: 30 Subsections = 10240 buckets. Failed count: 15038775
+        64B: 31 Subsections = 7936 buckets. Failed count: 6357041
+        80B: 44 Subsections = 9011 buckets. Failed count: 2369512
+        96B: 7 Subsections = 1194 buckets. Failed count: 1536314
+        112B: 5 Subsections = 731 buckets. Failed count: 1193487
+        128B: 14 Subsections = 1792 buckets. Failed count: 1718686
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [8.0 KB-16.0 KB]: 1373 frames, [16.0 KB-32.0 KB]: 2918 frames, [32.0 KB-64.0 KB]: 693 frames, [64.0 KB-128.0 KB]: 91545 frames
+      Peak usage frame count: [8.0 KB-16.0 KB]: 4301 frames, [16.0 KB-32.0 KB]: 4155 frames, [32.0 KB-64.0 KB]: 570 frames, [64.0 KB-128.0 KB]: 542692 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 64.3 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [8.0 KB-16.0 KB]: 1520 frames, [16.0 KB-32.0 KB]: 151 frames, [32.0 KB-64.0 KB]: 2620 frames, [128.0 KB-256.0 KB]: 92238 frames
+      Peak usage frame count: [8.0 KB-16.0 KB]: 3156 frames, [16.0 KB-32.0 KB]: 303 frames, [32.0 KB-64.0 KB]: 4997 frames, [128.0 KB-256.0 KB]: 543262 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 145.0 KB
